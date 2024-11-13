@@ -23,4 +23,10 @@ I have a product-focused mindset, prioritizing the delivery of MVPs that meet bu
 - 📫 How to reach me:
   - Linkedin: https://www.linkedin.com/in/antonio-d-alessio-50149466/
   - Email: antessio7@gmail.com
+- 📚 Some books I recommend:
+  - **Implementing Domain-Driven Design** | Vaughn Vernon
+  - **Domain Driven Design with Spring Boot: Enterprise Application from scratch** | Ajay Kumar
+  - **Elixir in Action** | Sasa Juric
+  - **Software Architecture: The Hard Parts: Modern Trade-Off Analyses for Distributed Architectures** | Neal Ford, Mark Richards, Pramod Sadalag & Zhamak Dehghani
+  - **Clean Code** | Robert Cecil Martin
 - ⚡ Fun fact: I do chess-boxing :chess_pawn: :boxing_glove: 
