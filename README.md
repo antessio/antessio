@@ -3,6 +3,7 @@
 Experienced Software Engineer | Specializing in TDD, DDD, and Distributed Architecture
 
 Passionate about building robust, scalable software solutions with a strong emphasis on Test-Driven Development (TDD) and Domain-Driven Design (DDD). 
+
 I have a product-focused mindset, prioritizing the delivery of MVPs that meet business goals while ensuring quality and scalability.
 
 - 🔭 I’m currently working at Prima Assicurazioni
