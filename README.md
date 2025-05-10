@@ -17,7 +17,7 @@ Passionate about building robust, scalable software solutions with a strong emph
 
 I have a product-focused mindset, prioritizing the delivery of MVPs that meet business goals while ensuring quality and scalability.
 
-- 🔭 I’m currently working at Prima Assicurazioni
+- 🔭 I’m currently working at Satispay
 - 👀 I’m interested in Java, Elixir, Python, NextJS, Hexagonal Architecture, DDD, TDD, AWS and XP
 - 🌱 I’m currently learning Elixir and software architectures
 - 📫 How to reach me:
